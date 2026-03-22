@@ -64,7 +64,7 @@ The system:
 
 ## 📸 Demo
 
-![Demo](screenshots/demo.png)
+![Demo](screenshots/demo.png.png)
 
 ---
 
