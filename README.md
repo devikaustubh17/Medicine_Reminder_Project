@@ -111,6 +111,9 @@ Reminder set for Crocin at 14:30
 - Web dashboard
 
 ---
+## 📸 Demo
+
+![Demo](screenshots/demo.png)
 
 ## 👨‍💻 Author
 
